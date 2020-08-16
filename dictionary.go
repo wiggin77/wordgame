@@ -3,15 +3,15 @@ package main
 import (
 	"bufio"
 	"os"
-	"sort"
+	"strings"
 )
 
-type Words struct {
-	list []string
+type Dictionary struct {
+	root *Node
 }
 
-func NewWords(opts *Opts) (*Words, error) {
-	words := &Words{}
+func NewDictionary(opts *Opts) (*Dictionary, error) {
+	words := &Dictionary{root: NewNode(0)}
 
 	if err := words.load(opts.wordsFile); err != nil {
 		return nil, err
@@ -20,24 +20,25 @@ func NewWords(opts *Opts) (*Words, error) {
 	return words, nil
 }
 
-func (w *Words) load(file string) error {
+func (d *Dictionary) load(file string) error {
 	f, err := os.Open(file)
 	if err != nil {
 		return err
 	}
 
 	scanner := bufio.NewScanner(f)
-	var list []string
 
 	for scanner.Scan() {
 		line := scanner.Text()
-		list = append(list, line)
+		line = strings.ToLower(line)
+
+		// strip annotations
+		line = strings.Trim(line, "!@#$%^&*()-+")
+
+		addWordToTree(d.root, line)
 	}
 	if err := scanner.Err(); err != nil {
 		return err
 	}
-
-	sort.Strings(list)
-	w.list = list
 	return nil
 }

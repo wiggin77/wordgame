@@ -1,0 +1,1415 @@
+word found:  l
+word found:  lu
+word found:  lue
+prefix not found:  luetg
+prefix not found:  luets
+prefix not found:  luetig
+prefix not found:  luetis
+prefix not found:  lueg
+word found:  lues
+prefix not found:  luest
+prefix not found:  luesg
+prefix not found:  luesi
+prefix not found:  luei
+word found:  lut
+word found:  lute
+prefix not found:  luteg
+word found:  lutes
+prefix not found:  lutesg
+prefix not found:  lutesi
+prefix not found:  luteig
+prefix not found:  luteis
+prefix not found:  lutg
+prefix not found:  luts
+prefix not found:  lutie
+prefix not found:  lutig
+prefix not found:  lutise
+prefix not found:  lutisg
+word found:  lug
+word found:  luge
+prefix not found:  luget
+word found:  luges
+prefix not found:  lugest
+prefix not found:  lugesi
+prefix not found:  lugei
+prefix not found:  lugt
+word found:  lugs
+prefix not found:  lugse
+prefix not found:  lugst
+prefix not found:  lugsi
+prefix not found:  lugie
+prefix not found:  lugit
+prefix not found:  lugis
+prefix not found:  luset
+prefix not found:  luseg
+prefix not found:  lusei
+word found:  lust
+prefix not found:  lusteg
+prefix not found:  lustei
+prefix not found:  lustg
+prefix not found:  lustieg
+prefix not found:  lustig
+prefix not found:  lusg
+prefix not found:  lusie
+prefix not found:  lusite
+prefix not found:  lusitg
+prefix not found:  lusig
+word found:  lui
+prefix not found:  luie
+word found:  luite
+prefix not found:  luiteg
+prefix not found:  luites
+prefix not found:  luitg
+prefix not found:  luits
+prefix not found:  luige
+prefix not found:  luigt
+prefix not found:  luigs
+word found:  luis
+prefix not found:  luiset
+prefix not found:  luiseg
+prefix not found:  luist
+prefix not found:  luisg
+word found:  le
+word found:  leu
+prefix not found:  leut
+prefix not found:  leug
+prefix not found:  leus
+prefix not found:  leui
+word found:  let
+prefix not found:  letug
+prefix not found:  letus
+prefix not found:  letui
+prefix not found:  letgu
+prefix not found:  letgs
+prefix not found:  letgi
+word found:  lets
+prefix not found:  letsu
+prefix not found:  letsg
+prefix not found:  letsi
+prefix not found:  letiu
+prefix not found:  letig
+prefix not found:  letis
+word found:  leg
+prefix not found:  legut
+prefix not found:  legus
+prefix not found:  legui
+prefix not found:  legt
+word found:  legs
+prefix not found:  legsu
+prefix not found:  legst
+prefix not found:  legsi
+prefix not found:  legiu
+word found:  legit
+prefix not found:  legitu
+word found:  legits
+prefix not found:  legitsu
+word found:  legis
+prefix not found:  legisu
+word found:  legist
+prefix not found:  legistu
+word found:  les
+prefix not found:  lesu
+word found:  lest
+prefix not found:  lestu
+prefix not found:  lestg
+prefix not found:  lestiu
+prefix not found:  lestig
+prefix not found:  lesgu
+prefix not found:  lesgt
+prefix not found:  lesgi
+prefix not found:  lesiu
+prefix not found:  lesit
+prefix not found:  lesig
+word found:  lei
+prefix not found:  leiu
+prefix not found:  leitu
+prefix not found:  leitg
+prefix not found:  leits
+prefix not found:  leigu
+prefix not found:  leigt
+prefix not found:  leigs
+word found:  leis
+prefix not found:  leisut
+prefix not found:  leisug
+prefix not found:  leistu
+prefix not found:  leistg
+prefix not found:  leisg
+word found:  lt
+prefix not found:  ltu
+prefix not found:  lte
+prefix not found:  ltg
+prefix not found:  lts
+prefix not found:  lti
+word found:  lg
+prefix not found:  lgu
+prefix not found:  lge
+prefix not found:  lgtu
+prefix not found:  lgte
+prefix not found:  lgts
+prefix not found:  lgti
+prefix not found:  lgs
+prefix not found:  lgi
+word found:  ls
+prefix not found:  lsu
+prefix not found:  lse
+word found:  lst
+prefix not found:  lstu
+prefix not found:  lste
+prefix not found:  lstg
+prefix not found:  lsti
+prefix not found:  lsg
+prefix not found:  lsi
+word found:  li
+prefix not found:  liue
+prefix not found:  liut
+prefix not found:  liug
+prefix not found:  lius
+word found:  lie
+word found:  lieu
+word found:  lieut
+prefix not found:  lieutg
+prefix not found:  lieuts
+prefix not found:  lieug
+word found:  lieus
+prefix not found:  lieust
+prefix not found:  lieusg
+prefix not found:  liet
+prefix not found:  liegu
+prefix not found:  liegt
+prefix not found:  liegs
+word found:  lies
+prefix not found:  liesu
+word found:  liest
+prefix not found:  liestu
+prefix not found:  liestg
+prefix not found:  liesg
+word found:  lit
+word found:  litu
+prefix not found:  litue
+prefix not found:  litug
+word found:  litus
+prefix not found:  lituse
+prefix not found:  litusg
+word found:  lite
+prefix not found:  liteu
+prefix not found:  liteg
+word found:  lites
+prefix not found:  litesu
+prefix not found:  litesg
+prefix not found:  litg
+word found:  lits
+prefix not found:  litsu
+prefix not found:  litseu
+prefix not found:  litseg
+prefix not found:  litsg
+word found:  lig
+prefix not found:  ligue
+prefix not found:  ligut
+prefix not found:  liguse
+prefix not found:  liguste
+word found:  lige
+prefix not found:  ligeu
+prefix not found:  liget
+prefix not found:  liges
+prefix not found:  ligt
+prefix not found:  ligs
+word found:  lis
+prefix not found:  lisue
+prefix not found:  lisut
+prefix not found:  lisug
+word found:  lise
+prefix not found:  liseu
+prefix not found:  lisetu
+prefix not found:  lisetg
+prefix not found:  liseg
+word found:  list
+prefix not found:  listu
+prefix not found:  listeu
+prefix not found:  listeg
+prefix not found:  listg
+prefix not found:  lisg
+word found:  u
+word found:  ule
+prefix not found:  uletg
+prefix not found:  ulets
+prefix not found:  uletig
+prefix not found:  uletis
+prefix not found:  uleg
+prefix not found:  ules
+prefix not found:  ulei
+word found:  ult
+prefix not found:  ulteg
+prefix not found:  ultes
+prefix not found:  ultei
+prefix not found:  ultg
+prefix not found:  ults
+prefix not found:  ultie
+prefix not found:  ultig
+prefix not found:  ultis
+prefix not found:  ulg
+prefix not found:  ulse
+prefix not found:  ulsteg
+prefix not found:  ulstei
+prefix not found:  ulstg
+prefix not found:  ulsti
+prefix not found:  ulsg
+prefix not found:  ulsi
+prefix not found:  ulie
+prefix not found:  ulite
+prefix not found:  ulitg
+prefix not found:  ulits
+prefix not found:  ulige
+prefix not found:  uligt
+prefix not found:  uligs
+prefix not found:  ulis
+prefix not found:  uel
+prefix not found:  uet
+prefix not found:  ueg
+prefix not found:  ues
+prefix not found:  uei
+word found:  ut
+prefix not found:  utle
+prefix not found:  utlg
+prefix not found:  utls
+prefix not found:  utlie
+prefix not found:  utlig
+prefix not found:  utlis
+word found:  ute
+prefix not found:  utel
+prefix not found:  uteg
+prefix not found:  utes
+prefix not found:  utei
+prefix not found:  utg
+word found:  uts
+prefix not found:  utsl
+prefix not found:  utse
+prefix not found:  utsg
+prefix not found:  utsi
+word found:  uti
+word found:  util
+word found:  utile
+prefix not found:  utileg
+prefix not found:  utiles
+prefix not found:  utilg
+prefix not found:  utils
+prefix not found:  utie
+prefix not found:  utig
+prefix not found:  utis
+word found:  ug
+prefix not found:  ugle
+prefix not found:  uglt
+prefix not found:  ugls
+word found:  ugli
+prefix not found:  ugliet
+word found:  ugliest
+combo:  ugliest
+prefix not found:  uglit
+word found:  uglis
+prefix not found:  uglise
+prefix not found:  uglist
+prefix not found:  uge
+word found:  ugt
+prefix not found:  ugtl
+prefix not found:  ugte
+prefix not found:  ugts
+prefix not found:  ugti
+prefix not found:  ugsl
+prefix not found:  ugse
+prefix not found:  ugst
+prefix not found:  ugsi
+prefix not found:  ugi
+word found:  us
+prefix not found:  usl
+word found:  use
+prefix not found:  uselt
+prefix not found:  uselg
+prefix not found:  useli
+prefix not found:  uset
+prefix not found:  useg
+prefix not found:  usei
+word found:  ust
+prefix not found:  ustl
+prefix not found:  ustel
+prefix not found:  usteg
+prefix not found:  ustei
+prefix not found:  ustg
+prefix not found:  ustile
+prefix not found:  ustilg
+prefix not found:  ustie
+prefix not found:  ustig
+prefix not found:  usg
+prefix not found:  usil
+prefix not found:  usie
+prefix not found:  usitl
+prefix not found:  usite
+prefix not found:  usitg
+prefix not found:  usig
+word found:  ui
+prefix not found:  uile
+prefix not found:  uilt
+prefix not found:  uilg
+prefix not found:  uils
+prefix not found:  uie
+word found:  uit
+prefix not found:  uitle
+prefix not found:  uitlg
+prefix not found:  uitls
+prefix not found:  uite
+prefix not found:  uitg
+prefix not found:  uitsl
+prefix not found:  uitse
+prefix not found:  uitsg
+prefix not found:  uigl
+prefix not found:  uige
+prefix not found:  uigt
+prefix not found:  uigs
+prefix not found:  uis
+word found:  e
+word found:  el
+prefix not found:  elutg
+prefix not found:  eluts
+prefix not found:  elutig
+prefix not found:  elutis
+prefix not found:  elug
+prefix not found:  elust
+prefix not found:  elusg
+prefix not found:  elusit
+prefix not found:  elusig
+prefix not found:  elui
+word found:  elt
+prefix not found:  eltu
+prefix not found:  eltg
+prefix not found:  elts
+prefix not found:  eltiu
+prefix not found:  eltig
+prefix not found:  eltis
+prefix not found:  elg
+word found:  els
+prefix not found:  elsu
+prefix not found:  elst
+prefix not found:  elsg
+prefix not found:  elsiu
+prefix not found:  elsit
+prefix not found:  elsig
+word found:  eli
+prefix not found:  eliu
+prefix not found:  elitu
+prefix not found:  elitg
+prefix not found:  elits
+prefix not found:  eligu
+prefix not found:  eligt
+prefix not found:  eligs
+prefix not found:  elisu
+prefix not found:  elist
+prefix not found:  elisg
+word found:  eu
+prefix not found:  eult
+prefix not found:  eulg
+prefix not found:  euls
+prefix not found:  eulit
+prefix not found:  eulig
+prefix not found:  eulis
+prefix not found:  eutl
+prefix not found:  eutg
+prefix not found:  euts
+prefix not found:  euti
+prefix not found:  euglt
+prefix not found:  eugls
+prefix not found:  eugli
+prefix not found:  eugt
+prefix not found:  eugs
+prefix not found:  eugi
+prefix not found:  eusl
+prefix not found:  eustl
+prefix not found:  eustg
+prefix not found:  eusti
+prefix not found:  eusg
+prefix not found:  eusi
+prefix not found:  eui
+word found:  et
+prefix not found:  etl
+prefix not found:  etul
+prefix not found:  etug
+prefix not found:  etus
+word found:  etui
+prefix not found:  etuil
+prefix not found:  etuig
+word found:  etuis
+prefix not found:  etuisl
+prefix not found:  etuisg
+prefix not found:  etg
+prefix not found:  ets
+prefix not found:  etil
+prefix not found:  etiu
+prefix not found:  etig
+prefix not found:  etis
+word found:  eg
+prefix not found:  eglu
+prefix not found:  eglt
+prefix not found:  egls
+prefix not found:  egliu
+prefix not found:  eglit
+prefix not found:  eglis
+prefix not found:  egul
+prefix not found:  egutl
+prefix not found:  eguts
+prefix not found:  eguti
+prefix not found:  egus
+prefix not found:  egui
+prefix not found:  egt
+prefix not found:  egs
+prefix not found:  egilu
+prefix not found:  egilt
+prefix not found:  egils
+prefix not found:  egiu
+prefix not found:  egit
+word found:  egis
+prefix not found:  egisl
+prefix not found:  egisu
+prefix not found:  egist
+word found:  es
+prefix not found:  eslu
+prefix not found:  eslt
+prefix not found:  eslg
+prefix not found:  esliu
+prefix not found:  eslit
+prefix not found:  eslig
+word found:  esu
+prefix not found:  esul
+prefix not found:  esut
+prefix not found:  esugl
+prefix not found:  esugt
+prefix not found:  esugi
+prefix not found:  esui
+word found:  est
+prefix not found:  estl
+prefix not found:  estul
+prefix not found:  estug
+prefix not found:  estui
+prefix not found:  estg
+prefix not found:  estil
+prefix not found:  estiu
+prefix not found:  estig
+prefix not found:  esgl
+prefix not found:  esgul
+prefix not found:  esgut
+prefix not found:  esgui
+prefix not found:  esgt
+prefix not found:  esgi
+prefix not found:  esil
+prefix not found:  esiu
+prefix not found:  esit
+prefix not found:  esig
+prefix not found:  eilu
+prefix not found:  eilt
+prefix not found:  eilg
+prefix not found:  eils
+prefix not found:  eiu
+prefix not found:  eitl
+prefix not found:  eitu
+prefix not found:  eitg
+prefix not found:  eits
+prefix not found:  eigl
+prefix not found:  eigu
+prefix not found:  eigt
+prefix not found:  eigs
+prefix not found:  eisl
+prefix not found:  eisu
+prefix not found:  eistl
+prefix not found:  eistu
+prefix not found:  eistg
+prefix not found:  eisg
+word found:  t
+prefix not found:  tlu
+prefix not found:  tle
+prefix not found:  tlg
+prefix not found:  tls
+prefix not found:  tliu
+prefix not found:  tlie
+prefix not found:  tlig
+prefix not found:  tlis
+word found:  tu
+word found:  tule
+prefix not found:  tuleg
+word found:  tules
+prefix not found:  tulesg
+prefix not found:  tulesi
+prefix not found:  tulei
+prefix not found:  tulg
+prefix not found:  tulse
+prefix not found:  tulsg
+word found:  tulsi
+prefix not found:  tulsie
+prefix not found:  tulsig
+prefix not found:  tulie
+prefix not found:  tulig
+prefix not found:  tulise
+prefix not found:  tulisg
+word found:  tue
+prefix not found:  tuel
+prefix not found:  tueg
+prefix not found:  tuesl
+prefix not found:  tuesg
+prefix not found:  tuesi
+prefix not found:  tueil
+prefix not found:  tueig
+prefix not found:  tueis
+word found:  tug
+prefix not found:  tuglesi
+prefix not found:  tuglei
+prefix not found:  tugls
+prefix not found:  tuglie
+prefix not found:  tuglis
+prefix not found:  tuge
+word found:  tugs
+prefix not found:  tugsl
+prefix not found:  tugse
+prefix not found:  tugsi
+prefix not found:  tugi
+prefix not found:  tusl
+prefix not found:  tuse
+prefix not found:  tusg
+prefix not found:  tusi
+word found:  tui
+prefix not found:  tuile
+prefix not found:  tuilg
+prefix not found:  tuils
+prefix not found:  tuie
+prefix not found:  tuig
+word found:  tuis
+prefix not found:  tuisl
+prefix not found:  tuise
+prefix not found:  tuisg
+word found:  te
+word found:  tel
+prefix not found:  telugs
+prefix not found:  telugi
+prefix not found:  telus
+prefix not found:  telui
+prefix not found:  telg
+prefix not found:  telsu
+prefix not found:  telsg
+prefix not found:  telsi
+word found:  teli
+prefix not found:  teliug
+prefix not found:  telius
+prefix not found:  telig
+prefix not found:  telis
+prefix not found:  teul
+prefix not found:  teugl
+prefix not found:  teugs
+prefix not found:  teugi
+prefix not found:  teus
+prefix not found:  teui
+word found:  teg
+prefix not found:  tegl
+prefix not found:  teguls
+prefix not found:  teguli
+prefix not found:  tegus
+prefix not found:  teguil
+prefix not found:  teguis
+word found:  tegs
+prefix not found:  tegsl
+prefix not found:  tegsu
+prefix not found:  tegsi
+prefix not found:  tegi
+prefix not found:  teslu
+prefix not found:  teslg
+prefix not found:  tesli
+prefix not found:  tesul
+prefix not found:  tesug
+prefix not found:  tesui
+prefix not found:  tesg
+prefix not found:  tesi
+word found:  teil
+prefix not found:  teilu
+prefix not found:  teilg
+prefix not found:  teils
+prefix not found:  teiu
+prefix not found:  teiglu
+prefix not found:  teigls
+prefix not found:  teigu
+prefix not found:  teigs
+prefix not found:  teisl
+prefix not found:  teisu
+prefix not found:  teisg
+word found:  tg
+prefix not found:  tgl
+prefix not found:  tgu
+prefix not found:  tge
+prefix not found:  tgs
+prefix not found:  tgi
+word found:  ts
+prefix not found:  tsl
+prefix not found:  tsul
+prefix not found:  tsue
+prefix not found:  tsugl
+prefix not found:  tsuge
+prefix not found:  tsugi
+prefix not found:  tsui
+prefix not found:  tsel
+prefix not found:  tseu
+prefix not found:  tseg
+prefix not found:  tsei
+prefix not found:  tsg
+word found:  tsi
+prefix not found:  tsilu
+prefix not found:  tsile
+prefix not found:  tsilg
+prefix not found:  tsiu
+prefix not found:  tsie
+prefix not found:  tsig
+word found:  ti
+word found:  til
+prefix not found:  tilu
+word found:  tile
+prefix not found:  tileu
+prefix not found:  tileg
+word found:  tiles
+prefix not found:  tilesu
+prefix not found:  tilesg
+prefix not found:  tilg
+word found:  tils
+prefix not found:  tilsu
+prefix not found:  tilse
+prefix not found:  tilsg
+word found:  tiu
+prefix not found:  tiul
+prefix not found:  tiue
+prefix not found:  tiug
+prefix not found:  tius
+word found:  tie
+prefix not found:  tielu
+prefix not found:  tielg
+prefix not found:  tiels
+prefix not found:  tieu
+prefix not found:  tieg
+word found:  ties
+prefix not found:  tiesl
+prefix not found:  tiesu
+prefix not found:  tiesg
+word found:  tig
+prefix not found:  tiglu
+prefix not found:  tigle
+prefix not found:  tigls
+prefix not found:  tigul
+prefix not found:  tigue
+prefix not found:  tigus
+word found:  tige
+prefix not found:  tigelu
+prefix not found:  tigels
+prefix not found:  tigeu
+prefix not found:  tiges
+prefix not found:  tigs
+word found:  tis
+prefix not found:  tisl
+prefix not found:  tisu
+prefix not found:  tise
+prefix not found:  tisg
+word found:  g
+word found:  gl
+word found:  glue
+prefix not found:  gluet
+word found:  glues
+prefix not found:  gluest
+prefix not found:  gluesi
+prefix not found:  glueit
+prefix not found:  glueis
+word found:  glut
+prefix not found:  glutes
+word found:  glutei
+prefix not found:  gluteis
+word found:  gluts
+prefix not found:  glutse
+prefix not found:  glutsi
+prefix not found:  glutie
+prefix not found:  glutis
+prefix not found:  gluse
+prefix not found:  glust
+prefix not found:  glusie
+prefix not found:  glusit
+prefix not found:  gluiet
+!!!:  gluiest
+word found:  gluiest
+combo:  gluiest
+prefix not found:  gluit
+prefix not found:  gluise
+prefix not found:  gluist
+prefix not found:  gleu
+prefix not found:  gletu
+prefix not found:  gletsu
+prefix not found:  gletsi
+prefix not found:  gleti
+prefix not found:  glesu
+prefix not found:  glest
+prefix not found:  glesi
+prefix not found:  gleiu
+word found:  gleit
+prefix not found:  gleitu
+prefix not found:  gleits
+prefix not found:  gleis
+word found:  glt
+prefix not found:  gltu
+prefix not found:  glte
+prefix not found:  glts
+prefix not found:  glti
+prefix not found:  gls
+prefix not found:  gliu
+prefix not found:  glie
+prefix not found:  glitu
+prefix not found:  glite
+prefix not found:  glits
+word found:  glis
+prefix not found:  glisu
+prefix not found:  glise
+word found:  glist
+prefix not found:  glistu
+prefix not found:  glisteu
+word found:  gu
+word found:  gul
+word found:  gule
+prefix not found:  gulet
+word found:  gules
+prefix not found:  gulest
+prefix not found:  gulesi
+prefix not found:  gulei
+word found:  gult
+prefix not found:  gulte
+prefix not found:  gults
+prefix not found:  gulti
+word found:  guls
+prefix not found:  gulse
+prefix not found:  gulst
+prefix not found:  gulsi
+prefix not found:  gulie
+prefix not found:  gulit
+prefix not found:  gulise
+word found:  gulist
+prefix not found:  guliste
+word found:  gue
+prefix not found:  guelt
+prefix not found:  guels
+prefix not found:  gueli
+prefix not found:  guetl
+prefix not found:  guets
+prefix not found:  gueti
+prefix not found:  guesl
+word found:  guest
+combo:  guestli
+prefix not found:  guestil
+prefix not found:  guesi
+prefix not found:  guei
+word found:  gut
+prefix not found:  gutlesi
+prefix not found:  gutlei
+prefix not found:  gutls
+prefix not found:  gutlie
+prefix not found:  gutlis
+prefix not found:  gute
+word found:  guts
+prefix not found:  gutsl
+prefix not found:  gutsel
+prefix not found:  gutsei
+prefix not found:  gutsile
+prefix not found:  gutsiel
+word found:  guti
+prefix not found:  gutil
+prefix not found:  gutiel
+prefix not found:  guties
+prefix not found:  gutis
+word found:  gus
+word found:  gusle
+prefix not found:  guslet
+prefix not found:  guslei
+prefix not found:  guslt
+prefix not found:  gusli
+prefix not found:  gusel
+prefix not found:  guset
+prefix not found:  gusei
+word found:  gust
+prefix not found:  gustlei
+prefix not found:  gustli
+prefix not found:  gustel
+prefix not found:  gustei
+prefix not found:  gustile
+prefix not found:  gustiel
+prefix not found:  gusi
+word found:  guile
+prefix not found:  guilet
+word found:  guiles
+prefix not found:  guilest
+word found:  guilt
+prefix not found:  guilte
+word found:  guilts
+prefix not found:  guiltse
+prefix not found:  guils
+prefix not found:  guie
+prefix not found:  guitl
+prefix not found:  guitel
+prefix not found:  guites
+prefix not found:  guits
+prefix not found:  guisl
+word found:  guise
+prefix not found:  guisel
+prefix not found:  guiset
+prefix not found:  guist
+word found:  ge
+word found:  gel
+prefix not found:  gelu
+word found:  gelt
+prefix not found:  geltu
+word found:  gelts
+prefix not found:  geltsu
+prefix not found:  geltsi
+prefix not found:  gelti
+word found:  gels
+prefix not found:  gelsu
+prefix not found:  gelst
+prefix not found:  gelsi
+prefix not found:  geliu
+prefix not found:  gelit
+prefix not found:  gelis
+prefix not found:  geult
+prefix not found:  geuls
+prefix not found:  geuli
+prefix not found:  geut
+prefix not found:  geus
+prefix not found:  geui
+word found:  get
+prefix not found:  getlu
+prefix not found:  getls
+prefix not found:  getliu
+prefix not found:  getlis
+prefix not found:  getul
+prefix not found:  getus
+prefix not found:  getui
+word found:  gets
+prefix not found:  getsl
+word found:  getsul
+prefix not found:  getsuli
+prefix not found:  getsui
+prefix not found:  getsi
+prefix not found:  getil
+prefix not found:  getiu
+prefix not found:  getis
+word found:  ges
+prefix not found:  geslu
+prefix not found:  geslt
+prefix not found:  gesliu
+prefix not found:  geslit
+prefix not found:  gesul
+prefix not found:  gesut
+prefix not found:  gesui
+word found:  gest
+prefix not found:  gestl
+prefix not found:  gestul
+prefix not found:  gestui
+prefix not found:  gestil
+prefix not found:  gestiu
+prefix not found:  gesil
+prefix not found:  gesiu
+prefix not found:  gesitl
+prefix not found:  gesitu
+prefix not found:  geil
+prefix not found:  geiu
+prefix not found:  geitl
+prefix not found:  geitu
+prefix not found:  geits
+prefix not found:  geisl
+prefix not found:  geisu
+word found:  geist
+prefix not found:  geistlu
+prefix not found:  geistu
+word found:  gt
+prefix not found:  gtl
+prefix not found:  gtu
+word found:  gte
+prefix not found:  gtel
+prefix not found:  gteu
+prefix not found:  gtes
+prefix not found:  gtei
+prefix not found:  gts
+prefix not found:  gti
+word found:  gs
+prefix not found:  gsl
+prefix not found:  gsu
+prefix not found:  gse
+prefix not found:  gst
+prefix not found:  gsi
+word found:  gi
+word found:  gil
+prefix not found:  gilu
+word found:  gile
+prefix not found:  gileu
+word found:  gilet
+prefix not found:  giletu
+prefix not found:  gilets
+word found:  giles
+prefix not found:  gilesu
+prefix not found:  gilest
+word found:  gilt
+prefix not found:  giltu
+prefix not found:  gilteu
+prefix not found:  giltes
+word found:  gilts
+prefix not found:  giltsu
+prefix not found:  giltse
+word found:  gils
+prefix not found:  gilsu
+word found:  gilse
+prefix not found:  gilseu
+prefix not found:  gilset
+prefix not found:  gilst
+prefix not found:  giule
+prefix not found:  giult
+prefix not found:  giuls
+prefix not found:  giue
+prefix not found:  giut
+prefix not found:  giusl
+prefix not found:  giusel
+prefix not found:  giuset
+word found:  giust
+prefix not found:  giustl
+prefix not found:  giuste
+word found:  gie
+prefix not found:  giel
+prefix not found:  gieu
+prefix not found:  giet
+word found:  gies
+prefix not found:  giesl
+prefix not found:  giesu
+prefix not found:  giest
+word found:  git
+prefix not found:  gitl
+prefix not found:  gitu
+word found:  gite
+prefix not found:  gitel
+prefix not found:  giteu
+prefix not found:  gites
+prefix not found:  gits
+word found:  gis
+prefix not found:  gislu
+prefix not found:  gisleu
+prefix not found:  gislet
+prefix not found:  gislt
+prefix not found:  gisu
+word found:  gise
+word found:  gisel
+prefix not found:  giselu
+prefix not found:  giselt
+prefix not found:  giseu
+prefix not found:  giset
+word found:  gist
+prefix not found:  gistl
+prefix not found:  gistu
+prefix not found:  giste
+word found:  s
+word found:  sl
+word found:  slue
+prefix not found:  sluet
+prefix not found:  slueg
+prefix not found:  sluei
+word found:  slut
+prefix not found:  slute
+prefix not found:  slutg
+prefix not found:  sluti
+word found:  slug
+prefix not found:  sluge
+prefix not found:  slugt
+prefix not found:  slugi
+prefix not found:  sluie
+word found:  sluit
+prefix not found:  sluite
+prefix not found:  sluitg
+word found:  sluig
+prefix not found:  sluige
+prefix not found:  sluigt
+prefix not found:  sleutg
+prefix not found:  sleuti
+prefix not found:  sleug
+prefix not found:  sleui
+prefix not found:  sletu
+prefix not found:  sletg
+prefix not found:  sleti
+prefix not found:  sleg
+prefix not found:  sleiu
+prefix not found:  sleit
+prefix not found:  sleigu
+prefix not found:  sleigt
+word found:  slt
+prefix not found:  sltu
+prefix not found:  slte
+prefix not found:  sltg
+prefix not found:  slti
+prefix not found:  slg
+prefix not found:  sliu
+prefix not found:  slieu
+prefix not found:  sliet
+prefix not found:  slieg
+word found:  slit
+prefix not found:  slitu
+word found:  slite
+prefix not found:  sliteu
+prefix not found:  sliteg
+prefix not found:  slitg
+prefix not found:  sligu
+prefix not found:  slige
+prefix not found:  sligt
+word found:  su
+prefix not found:  sulet
+prefix not found:  suleg
+prefix not found:  sulei
+prefix not found:  sulte
+prefix not found:  sultg
+prefix not found:  sulti
+prefix not found:  sulg
+prefix not found:  sulie
+prefix not found:  sulit
+prefix not found:  sulig
+word found:  sue
+prefix not found:  suel
+word found:  suet
+prefix not found:  suetl
+prefix not found:  suetg
+prefix not found:  sueti
+prefix not found:  suegl
+prefix not found:  suegt
+prefix not found:  suegi
+prefix not found:  suei
+prefix not found:  sutleg
+prefix not found:  sutlei
+prefix not found:  sutlg
+prefix not found:  sutli
+prefix not found:  sutel
+prefix not found:  suteg
+prefix not found:  sutei
+prefix not found:  sutg
+word found:  sutile
+prefix not found:  sutileg
+prefix not found:  sutilg
+prefix not found:  sutie
+prefix not found:  sutig
+prefix not found:  sugl
+prefix not found:  sugel
+prefix not found:  suget
+prefix not found:  sugei
+prefix not found:  sugt
+word found:  sugi
+prefix not found:  sugile
+prefix not found:  sugilt
+prefix not found:  sugie
+prefix not found:  sugit
+word found:  sui
+prefix not found:  suile
+prefix not found:  suilt
+prefix not found:  suilg
+prefix not found:  suie
+word found:  suit
+prefix not found:  suitle
+prefix not found:  suitlg
+word found:  suite
+prefix not found:  suitel
+prefix not found:  suiteg
+prefix not found:  suitg
+prefix not found:  suig
+word found:  se
+word found:  sel
+prefix not found:  selut
+prefix not found:  selug
+prefix not found:  selui
+word found:  selt
+prefix not found:  seltu
+prefix not found:  seltg
+prefix not found:  selti
+prefix not found:  selg
+prefix not found:  seliu
+prefix not found:  selit
+prefix not found:  seligu
+prefix not found:  seligt
+prefix not found:  seul
+prefix not found:  seut
+prefix not found:  seugl
+prefix not found:  seugt
+prefix not found:  seugi
+prefix not found:  seui
+word found:  set
+prefix not found:  setlu
+prefix not found:  setlg
+prefix not found:  setliu
+prefix not found:  setlig
+prefix not found:  setulg
+prefix not found:  setulig
+prefix not found:  setug
+prefix not found:  setuil
+prefix not found:  setuig
+prefix not found:  setg
+prefix not found:  setil
+prefix not found:  setiu
+prefix not found:  setigl
+prefix not found:  setigu
+word found:  seg
+prefix not found:  segl
+prefix not found:  segul
+prefix not found:  segut
+prefix not found:  seguil
+prefix not found:  seguit
+prefix not found:  segt
+prefix not found:  segil
+prefix not found:  segiu
+prefix not found:  segit
+word found:  sei
+prefix not found:  seilu
+prefix not found:  seilt
+prefix not found:  seilg
+prefix not found:  seiul
+prefix not found:  seiut
+prefix not found:  seiug
+word found:  seit
+prefix not found:  seitl
+prefix not found:  seitu
+prefix not found:  seitg
+prefix not found:  seigl
+prefix not found:  seigu
+prefix not found:  seigt
+word found:  st
+prefix not found:  stlu
+prefix not found:  stle
+word found:  stlg
+prefix not found:  stlgu
+prefix not found:  stlge
+prefix not found:  stlgi
+prefix not found:  stli
+word found:  stu
+prefix not found:  stule
+prefix not found:  stulg
+prefix not found:  stuli
+word found:  stue
+prefix not found:  stuel
+prefix not found:  stueg
+prefix not found:  stuei
+word found:  stug
+prefix not found:  stugl
+prefix not found:  stuge
+prefix not found:  stugi
+prefix not found:  stuil
+prefix not found:  stuie
+prefix not found:  stuig
+prefix not found:  stelu
+prefix not found:  stelg
+prefix not found:  steliu
+prefix not found:  stelig
+prefix not found:  steul
+prefix not found:  steug
+prefix not found:  steui
+word found:  steg
+prefix not found:  stegl
+prefix not found:  stegu
+prefix not found:  stegi
+prefix not found:  steil
+prefix not found:  steiu
+prefix not found:  steigl
+prefix not found:  steigu
+word found:  stg
+prefix not found:  stgl
+prefix not found:  stgu
+word found:  stge
+prefix not found:  stgel
+prefix not found:  stgeu
+prefix not found:  stgei
+prefix not found:  stgi
+prefix not found:  stilu
+word found:  stile
+prefix not found:  stileu
+prefix not found:  stileg
+prefix not found:  stilg
+prefix not found:  stiu
+prefix not found:  stiel
+prefix not found:  stieu
+prefix not found:  stieg
+prefix not found:  stigl
+prefix not found:  stigu
+prefix not found:  stige
+word found:  sg
+prefix not found:  sgl
+prefix not found:  sgu
+prefix not found:  sge
+prefix not found:  sgt
+prefix not found:  sgi
+word found:  si
+word found:  sil
+prefix not found:  silue
+prefix not found:  silut
+prefix not found:  silug
+word found:  sile
+prefix not found:  sileu
+prefix not found:  siletu
+prefix not found:  siletg
+prefix not found:  sileg
+word found:  silt
+prefix not found:  siltu
+prefix not found:  silteu
+prefix not found:  silteg
+prefix not found:  siltg
+prefix not found:  silgu
+prefix not found:  silge
+prefix not found:  silgt
+prefix not found:  siul
+prefix not found:  siue
+prefix not found:  siut
+prefix not found:  siug
+word found:  sie
+prefix not found:  siel
+prefix not found:  sieul
+prefix not found:  sieut
+prefix not found:  sieug
+prefix not found:  siet
+prefix not found:  sieglu
+prefix not found:  sieglt
+prefix not found:  siegul
+prefix not found:  siegut
+prefix not found:  siegt
+word found:  sit
+prefix not found:  sitl
+word found:  situ
+prefix not found:  situle
+prefix not found:  situlg
+prefix not found:  situe
+prefix not found:  situg
+word found:  site
+prefix not found:  sitelu
+prefix not found:  sitelg
+prefix not found:  siteu
+prefix not found:  siteg
+prefix not found:  sitg
+word found:  sig
+prefix not found:  siglue
+prefix not found:  siglut
+prefix not found:  sigle
+prefix not found:  siglt
+prefix not found:  sigul
+prefix not found:  sigue
+prefix not found:  sigut
+prefix not found:  sige
+prefix not found:  sigt
+word found:  i
+word found:  il
+prefix not found:  ilu
+word found:  ile
+prefix not found:  ileut
+prefix not found:  ileug
+word found:  ileus
+prefix not found:  ileust
+prefix not found:  ileusg
+prefix not found:  ilet
+prefix not found:  ileg
+prefix not found:  ilesu
+prefix not found:  ilest
+prefix not found:  ilesg
+prefix not found:  iltu
+prefix not found:  ilte
+prefix not found:  iltg
+prefix not found:  ilts
+prefix not found:  ilg
+prefix not found:  ils
+prefix not found:  iule
+prefix not found:  iult
+prefix not found:  iulg
+prefix not found:  iuls
+prefix not found:  iue
+prefix not found:  iut
+prefix not found:  iug
+prefix not found:  ius
+word found:  ie
+prefix not found:  iel
+prefix not found:  ieu
+prefix not found:  iet
+prefix not found:  ieg
+prefix not found:  ies
+word found:  it
+prefix not found:  itlu
+prefix not found:  itle
+prefix not found:  itlg
+prefix not found:  itls
+prefix not found:  itul
+prefix not found:  itue
+prefix not found:  itug
+prefix not found:  itus
+word found:  itel
+prefix not found:  itelu
+prefix not found:  itelg
+prefix not found:  itels
+prefix not found:  iteu
+prefix not found:  iteg
+prefix not found:  ites
+prefix not found:  itg
+word found:  its
+prefix not found:  itsl
+prefix not found:  itsu
+prefix not found:  itselu
+prefix not found:  itselg
+prefix not found:  itseu
+prefix not found:  itseg
+prefix not found:  itsg
+word found:  iglu
+prefix not found:  iglue
+prefix not found:  iglut
+word found:  iglus
+prefix not found:  igluse
+prefix not found:  iglust
+prefix not found:  igleu
+prefix not found:  iglet
+prefix not found:  iglesu
+prefix not found:  iglest
+prefix not found:  iglt
+prefix not found:  igls
+prefix not found:  igul
+prefix not found:  igue
+prefix not found:  igut
+prefix not found:  igus
+prefix not found:  igelu
+prefix not found:  igelt
+prefix not found:  igelsu
+prefix not found:  igelstu
+prefix not found:  igeu
+prefix not found:  iget
+prefix not found:  iges
+prefix not found:  igt
+prefix not found:  igs
+word found:  is
+word found:  isl
+prefix not found:  islu
+word found:  isle
+prefix not found:  isleu
+word found:  islet
+prefix not found:  isletu
+prefix not found:  isletg
+prefix not found:  isleg
+prefix not found:  islt
+prefix not found:  islg
+prefix not found:  isul
+prefix not found:  isue
+prefix not found:  isut
+prefix not found:  isug
+word found:  ise
+prefix not found:  isel
+word found:  iseult
+prefix not found:  iseultg
+prefix not found:  iseulg
+prefix not found:  iseut
+prefix not found:  iseug
+prefix not found:  isetl
+prefix not found:  isetu
+prefix not found:  isetg
+prefix not found:  isegl
+prefix not found:  isegu
+prefix not found:  isegt
+word found:  ist
+prefix not found:  istlu
+word found:  istle
+prefix not found:  istleu
+prefix not found:  istleg
+prefix not found:  istlg
+prefix not found:  istu
+prefix not found:  iste
+prefix not found:  istg
+prefix not found:  isg
