@@ -41,7 +41,7 @@ func (d *Dictionary) load(file string, showDisabled bool) error {
 
 		d.words = append(d.words, line)
 
-		if !showDisabled && strings.HasPrefix(line, "!") {
+		if !showDisabled && (strings.HasPrefix(line, "!") || !hasVowel(line)) {
 			continue
 		}
 
@@ -131,4 +131,14 @@ func binarySearch(arr []string, s string) (int, bool) {
 	idx := sort.SearchStrings(arr, s)
 	found := idx != len(arr) && arr[idx] == s
 	return idx, found
+}
+
+func hasVowel(s string) bool {
+	for _, ch := range s {
+		switch ch {
+		case 'a', 'e', 'i', 'o', 'u', 'y':
+			return true
+		}
+	}
+	return false
 }
