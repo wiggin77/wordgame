@@ -94,7 +94,11 @@ func (d *Dictionary) disableWords(words []string) (int, error) {
 			d.words[idx] = "!" + w
 			count++
 		} else {
-			errs.Append(fmt.Errorf("'%s' not found", w))
+			if _, found := binarySearch(d.words, "!"+w); found {
+				errs.Append(fmt.Errorf("'%s' already disabled", w))
+			} else {
+				errs.Append(fmt.Errorf("'%s' not found", w))
+			}
 		}
 	}
 	return count, errs.ErrorOrNil()
