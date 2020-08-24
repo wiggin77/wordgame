@@ -27,7 +27,7 @@ func main() {
 			if err := dict.save(opts.wordsFile); err != nil {
 				errExit(fmt.Errorf("error saving %s: %w", opts.wordsFile, err), 3, false)
 			} else {
-				fmt.Println(count, " words added.")
+				fmt.Printf("Saved dictionary %s\n%d words added.", opts.wordsFile, count)
 			}
 		}
 		if errAdd != nil {
@@ -37,13 +37,14 @@ func main() {
 	}
 
 	if opts.disableWords != nil {
-		if err := dict.disableWords(opts.disableWords); err != nil {
+		count, err := dict.disableWords(opts.disableWords)
+		if err != nil {
 			fmt.Fprintln(os.Stderr, err)
 		}
 		if err := dict.save(opts.wordsFile); err != nil {
-			errExit(fmt.Errorf("error saving %s: %w", opts.wordsFile, err), 3, false)
+			errExit(fmt.Errorf("error saving %s: %w", opts.wordsFile, err), 4, false)
 		} else {
-			fmt.Printf("Saved dictionary %s\n", opts.wordsFile)
+			fmt.Printf("Saved dictionary %s\n%d words removed.", opts.wordsFile, count)
 		}
 		return
 	}

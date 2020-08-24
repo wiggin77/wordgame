@@ -83,18 +83,21 @@ func (d *Dictionary) save(file string) error {
 	return errs.ErrorOrNil()
 }
 
-func (d *Dictionary) disableWords(words []string) error {
+func (d *Dictionary) disableWords(words []string) (int, error) {
 	errs := merror.New()
+	sort.Strings(d.words)
+	var count int
 
 	for _, w := range words {
-		idx := sort.SearchStrings(d.words, w)
-		if d.words[idx] == w {
+		idx, found := binarySearch(d.words, w)
+		if found {
 			d.words[idx] = "!" + w
+			count++
 		} else {
 			errs.Append(fmt.Errorf("'%s' not found", w))
 		}
 	}
-	return errs.ErrorOrNil()
+	return count, errs.ErrorOrNil()
 }
 
 func (d *Dictionary) addWords(words []string) (int, error) {
@@ -102,14 +105,14 @@ func (d *Dictionary) addWords(words []string) (int, error) {
 		d.words = make([]string, 0, len(words))
 	}
 
-	// can't just append since we must not allow duplicates.
+	// can't just append the slice since we must not allow duplicates.
 	var count int
 	errs := merror.New()
 	sort.Strings(d.words)
 	for _, w := range words {
-		idx := sort.SearchStrings(d.words, w)
-		if idx == len(d.words) || d.words[idx] != w {
-			insert(idx, d.words, w)
+		_, found := binarySearch(d.words, w)
+		if !found {
+			d.words = append(d.words, w)
 			count++
 		} else {
 			errs.Append(fmt.Errorf("'%s' already in dictionary", w))
@@ -119,16 +122,9 @@ func (d *Dictionary) addWords(words []string) (int, error) {
 	return count, errs.ErrorOrNil()
 }
 
-func insert(idx int, arr []string, s string) []string {
-	if idx < 0 {
-		idx = 0
-	}
-	if idx >= len(arr) {
-		return append(arr, s)
-	}
-
-	arr = append(arr, "")
-	copy(arr[idx+1:], arr[idx:])
-	arr[idx] = s
-	return arr
+func binarySearch(arr []string, s string) (int, bool) {
+	sort.Strings(arr)
+	idx := sort.SearchStrings(arr, s)
+	found := idx != len(arr) && arr[idx] == s
+	return idx, found
 }
