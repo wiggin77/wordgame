@@ -12,7 +12,8 @@
 			"program": "${fileDirname}",
 			"env": {},
 			"args": [
-				"luetgsi"
+				"-a",
+				"emo"
 			]
 		}
 	]

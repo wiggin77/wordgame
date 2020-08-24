@@ -21,6 +21,33 @@ func main() {
 		errExit(err, 2, false)
 	}
 
+	if opts.addWords != nil {
+		count, errAdd := dict.addWords(opts.addWords)
+		if count > 0 {
+			if err := dict.save(opts.wordsFile); err != nil {
+				errExit(fmt.Errorf("error saving %s: %w", opts.wordsFile, err), 3, false)
+			} else {
+				fmt.Println(count, " words added.")
+			}
+		}
+		if errAdd != nil {
+			fmt.Fprintln(os.Stderr, errAdd)
+		}
+		return
+	}
+
+	if opts.disableWords != nil {
+		if err := dict.disableWords(opts.disableWords); err != nil {
+			fmt.Fprintln(os.Stderr, err)
+		}
+		if err := dict.save(opts.wordsFile); err != nil {
+			errExit(fmt.Errorf("error saving %s: %w", opts.wordsFile, err), 3, false)
+		} else {
+			fmt.Printf("Saved dictionary %s\n", opts.wordsFile)
+		}
+		return
+	}
+
 	wordsFound := FindWords(opts, dict)
 	if len(wordsFound) > 0 {
 		printWords(opts, wordsFound)
