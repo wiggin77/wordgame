@@ -9,6 +9,7 @@ import (
 type Node struct {
 	r        rune
 	word     bool
+	disabled bool
 	children map[rune]*Node
 }
 
@@ -20,7 +21,7 @@ func NewNode(r rune) *Node {
 	}
 }
 
-func addWordToTree(root *Node, word string) {
+func addWordToTree(root *Node, word string, disabled bool) {
 	node := root
 	for _, r := range word {
 		fnode, ok := node.children[r]
@@ -31,14 +32,15 @@ func addWordToTree(root *Node, word string) {
 		node = fnode
 	}
 	node.word = true
+	node.disabled = disabled
 }
 
 // searchTree walks the tree checking if each item in arr is a child of the
 // previous. If all items of arr exist in the tree, then found=true. If the
 // last item of arr happens to be the last character of a word, then word=true.
-func searchTree(root *Node, arr []rune) (found bool, word bool) {
+func searchTree(root *Node, arr []rune) (found bool, word bool, disabled bool) {
 	if len(arr) == 0 || root == nil {
-		return false, false
+		return false, false, false
 	}
 
 	node := root
@@ -46,11 +48,11 @@ func searchTree(root *Node, arr []rune) (found bool, word bool) {
 		// find this rune in the children.
 		fnode, ok := node.children[r]
 		if !ok {
-			return false, false
+			return false, false, false
 		}
 		node = fnode
 	}
-	return true, node.word
+	return true, node.word, node.disabled
 }
 
 func printNode(n *Node, prefix string) {

@@ -49,12 +49,13 @@ func main() {
 		return
 	}
 
-	wordsFound := FindWords(opts, dict)
+	wordsFound, disabledCount := FindWords(opts, dict)
 	if len(wordsFound) > 0 {
 		printWords(opts, wordsFound)
 	} else {
 		fmt.Println("No words found.")
 	}
+	fmt.Println(disabledCount, " words disabled.")
 
 	//printNode(words.root, "")
 }

@@ -5,24 +5,28 @@ import (
 	"sort"
 )
 
-func FindWords(opts *Opts, dict *Dictionary) []string {
-
+func FindWords(opts *Opts, dict *Dictionary) ([]string, int) {
+	var disabledCount int
 	wordsFound := make(map[string]struct{})
 
 	var permutations func([]rune, []rune)
 
 	permutations = func(prefix []rune, arr []rune) {
 		if len(prefix) > 0 {
-			found, word := searchTree(dict.root, prefix)
+			found, word, disabled := searchTree(dict.root, prefix)
 			if !found {
 				verbosePrintln(opts, "prefix not found: ", string(prefix))
 				return
 			}
 
 			if word && len(prefix) >= opts.minLength {
-				w := string(prefix)
-				verbosePrintln(opts, "word found: ", w)
-				wordsFound[w] = struct{}{}
+				if disabled && !opts.showDisabled {
+					disabledCount++
+				} else {
+					w := string(prefix)
+					verbosePrintln(opts, "word found: ", w)
+					wordsFound[w] = struct{}{}
+				}
 			}
 		}
 
@@ -43,7 +47,7 @@ func FindWords(opts *Opts, dict *Dictionary) []string {
 		list = append(list, k)
 	}
 	sort.Strings(list)
-	return list
+	return list, disabledCount
 }
 
 func runeAppend(arr1 []rune, arr2 ...rune) []rune {

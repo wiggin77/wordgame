@@ -41,14 +41,12 @@ func (d *Dictionary) load(file string, showDisabled bool) error {
 
 		d.words = append(d.words, line)
 
-		if !showDisabled && (strings.HasPrefix(line, "!") || !hasVowel(line)) {
-			continue
-		}
+		disabled := strings.HasPrefix(line, "!") || !hasVowel(line)
 
 		// strip annotations
 		line = strings.Trim(line, "!@#$%^&*()-+")
 
-		addWordToTree(d.root, line)
+		addWordToTree(d.root, line, disabled)
 	}
 	if err := scanner.Err(); err != nil {
 		return err
